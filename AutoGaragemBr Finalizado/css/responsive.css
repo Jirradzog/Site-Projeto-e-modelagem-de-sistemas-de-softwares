@@ -1,0 +1,81 @@
+﻿/*Inicio menu site */
+@media (min-width: 992px){
+    #header .nav-link {
+        margin-left: 110px;
+        margin-right: 110px;
+    }
+}
+
+@media (min-width: 991px){
+    #header .nav-link {
+        margin-left: 5%;
+        margin-right: 90px;
+    }
+}
+/*
+@media (max-width: 3500.98px) {
+    #header .navbar-collapse {
+        width:100%;
+    }
+}
+*/
+
+/*Final menu site */
+
+/*Inicio logo site */
+/*
+@media (max-width: 1716px) {
+    #header .logo {
+        margin-left: 48%;
+    }
+}
+
+@media (max-width: 1679px) {
+    #header .logo {
+        margin-left: 48%;
+    }
+}
+
+@media (max-width: 1385px) {
+    #header .logo {
+        margin-left: 48%;
+    }
+}
+
+@media (max-width: 1200px) {
+    #header .logo {
+        margin-left: 47%;
+    }
+}
+
+@media (max-width: 1024px) {
+    #header .logo {
+        margin-left: 47%;
+    }
+}
+
+@media (max-width: 768px , ) {
+    #header .logo {
+        margin-left: 45%;
+    }
+}
+
+@media (max-width: 600px) {
+    #header .logo {
+        margin-left: 45%;
+    }
+}
+
+@media (max-width: 500px) {
+    #header .logo {
+        margin-left: 40%;
+    }
+}
+
+@media (max-width: 400px) {
+    #header .logo {
+        margin-left: 35%;
+    }
+}
+*/
+/*Fibal logo site */

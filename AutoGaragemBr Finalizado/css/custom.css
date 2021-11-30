@@ -1,0 +1,59 @@
+﻿body, html {     
+    overflow-x:hidden;
+    max-width: 1660px;
+    width: 100%;     
+    margin:0 auto;			
+    text-align:left;
+    background-color: rgba(33, 37, 41, 1); 
+    
+    
+}
+
+.logo{
+    position: absolute;
+    z-index: 1;
+}
+.banner{   
+    height: 110px;
+    z-index: 0;
+    width: 1660px;
+    
+}
+.rodape{
+    margin-top: 100px;
+    padding-top: 30px;
+}
+
+.navegacao {        
+    color: white;    
+    padding: 10px;
+    font-size: 25px;    
+    background-color: #79c41f;
+    text-align: center;
+    text-transform: uppercase;
+    
+}
+
+h1, h5{
+    color: black;
+}
+h4{
+    color: gray;
+}
+
+
+
+.slider {
+max-width: 100%;
+
+}
+
+
+
+.news {
+    margin-top: 30px;
+}
+
+
+
+
